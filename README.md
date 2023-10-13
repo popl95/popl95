@@ -1,16 +1,30 @@
-### Hi there 👋
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://i.imgur.com/sEdA3yA.png">
+ <source media="(prefers-color-scheme: light)" srcset="https://i.imgur.com/4Cyatyu.jpg">
+ <img alt="Shows Panda in light mode and sleeping Panda in dark mode." src="https://i.imgur.com/4Cyatyu.jpg">
+</picture>
 
-<!--
-**popl95/popl95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
 
-Here are some ideas to get you started:
+Hi I'm popl. I'm an italian mathematician and I use GiT for my studies and hobbies. I'd like to learn new feature to improve my programmation skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
+<details>
+<summary>Programmation languages</summary>
+
+| Rank | Languages     |
+|-----:|---------------|
+|     1| Python        |
+|     2| C             |
+|     3| Mathematica   |
+
+</details>
+
+
+
+ 
+
